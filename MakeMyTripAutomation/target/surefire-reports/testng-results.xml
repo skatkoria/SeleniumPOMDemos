@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+    <line>
+      <![CDATA[Logged In successfully]]>
+    </line>
+    <line>
+      <![CDATA[Logged In successfully]]>
+    </line>
+    <line>
+      <![CDATA[Searching flights]]>
+    </line>
+    <line>
+      <![CDATA[expected Amount 106494]]>
+    </line>
+    <line>
+      <![CDATA[actual Amount 106494]]>
+    </line>
+  </reporter-output>
+  <suite name="com.practice.selenium.tests.MakeMyTripTest" duration-ms="223770" started-at="2017-09-05T12:40:04Z" finished-at="2017-09-05T12:43:47Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="223770" started-at="2017-09-05T12:40:04Z" finished-at="2017-09-05T12:43:47Z">
+      <class name="com.practice.selenium.tests.MakeMyTripTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.practice.selenium.tests.MakeMyTripTest@1b6d4ae]" name="setUp" is-config="true" duration-ms="23241" started-at="2017-09-05T18:10:04Z" finished-at="2017-09-05T18:10:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Login_Negative()[pri:0, instance:com.practice.selenium.tests.MakeMyTripTest@1b6d4ae]" name="Login_Negative" duration-ms="26462" started-at="2017-09-05T18:10:27Z" finished-at="2017-09-05T18:10:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_Negative -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.practice.selenium.tests.MakeMyTripTest@1b6d4ae]" name="afterMethod" is-config="true" duration-ms="30" started-at="2017-09-05T18:10:53Z" finished-at="2017-09-05T18:10:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.practice.selenium.tests.MakeMyTripTest@1b6d4ae]" name="setUp" is-config="true" duration-ms="17149" started-at="2017-09-05T18:10:53Z" finished-at="2017-09-05T18:11:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Login_Positive()[pri:0, instance:com.practice.selenium.tests.MakeMyTripTest@1b6d4ae]" name="Login_Positive" duration-ms="26551" started-at="2017-09-05T18:11:11Z" finished-at="2017-09-05T18:11:37Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Logged In successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Login_Positive -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.practice.selenium.tests.MakeMyTripTest@1b6d4ae]" name="afterMethod" is-config="true" duration-ms="430" started-at="2017-09-05T18:11:37Z" finished-at="2017-09-05T18:11:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.practice.selenium.tests.MakeMyTripTest@1b6d4ae]" name="setUp" is-config="true" duration-ms="48151" started-at="2017-09-05T18:11:37Z" finished-at="2017-09-05T18:12:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="SearchFlightTest()[pri:0, instance:com.practice.selenium.tests.MakeMyTripTest@1b6d4ae]" name="SearchFlightTest" duration-ms="81688" started-at="2017-09-05T18:12:26Z" finished-at="2017-09-05T18:13:47Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Logged In successfully]]>
+            </line>
+            <line>
+              <![CDATA[Searching flights]]>
+            </line>
+            <line>
+              <![CDATA[expected Amount 106494]]>
+            </line>
+            <line>
+              <![CDATA[actual Amount 106494]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- SearchFlightTest -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.practice.selenium.tests.MakeMyTripTest@1b6d4ae]" name="afterMethod" is-config="true" duration-ms="29" started-at="2017-09-05T18:13:47Z" finished-at="2017-09-05T18:13:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.practice.selenium.tests.MakeMyTripTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.practice.selenium.tests.MakeMyTripTest -->
+</testng-results>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [com.practice.selenium.tests.MakeMyTripTest]">
+  <test name="Command line test(failed)">
+    <classes>
+      <class name="com.practice.selenium.tests.MakeMyTripTest">
+        <methods>
+          <include name="SearchFlightTest"/>
+          <include name="setUp"/>
+          <include name="afterMethod"/>
+          <include name="Login_Positive"/>
+        </methods>
+      </class> <!-- com.practice.selenium.tests.MakeMyTripTest -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [com.practice.selenium.tests.MakeMyTripTest] -->
